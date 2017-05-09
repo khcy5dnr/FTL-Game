@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1493956522 source:c:\users\durai23\onedrive\year 2 (unmc)\c++\ftl-game\fleet.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<math.h>
+	<chrono>
+	<atomic>
+	<algorithm>
+	"Fleet.h"
+
+1493876879 c:\users\durai23\onedrive\year 2 (unmc)\c++\ftl-game\fleet.h
+	<iostream>
+	<string>
+	<vector>
+
